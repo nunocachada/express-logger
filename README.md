@@ -1,6 +1,15 @@
 # express-logger
 Simple file logger using Morgan and Express.  
 
-npm install
+# Instalation 
+ - Install dependencies
 
+```
+npm install
+```
+
+ - Run app.js
+
+```
 npm start
+```
